@@ -707,10 +707,10 @@ openstack-private-cloud/
 <div align="center">
 
 **Dhairya**
-*Computer Engineering Student*
+*Founder of HackStone*
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhairya-pithadia/)
 
 *Built with patience, persistence, and a lot of chai.*
 
